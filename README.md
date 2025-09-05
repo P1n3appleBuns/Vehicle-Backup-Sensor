@@ -21,7 +21,6 @@ This project is a **vehicle backup sensor** built with an Arduino UNO R4 WiFi, a
 | HC-SR04 Ultrasonic Distance Sensor | 1 | Measures distance |  
 | RGB LED | 1 | Distance indication through light |
 | Passive Buzzer | 1 | Produces warning tone |  
-- Resistors and jumper wires  
 
 ## How It Works
 
