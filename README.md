@@ -42,7 +42,7 @@ This project is a **vehicle backup sensor** built with an Arduino UNO R4 WiFi, a
 
 ## Quick Start
 1. Connect all sensors and relay as shown above.  
-2. Upload the Arduino code to the ESP32.  
-3. Open the Blynk app, add the widgets, and link virtual pins (V0–V4).  
-4. Power the ESP32 and check Serial Monitor for sensor readings.  
-5. Use the Blynk dashboard to monitor and manually water your plant.
+2. Upload the Arduino code to the microcontroller.  
+3. Connect all components to respective pins 
+4. Power the microcontroller and check Serial Monitor for sensor readings.  
+5. Adjust thresholds and test to see if it works.
